@@ -1,16 +1,16 @@
-Numero,Organizacion,Lugar,Fecha,Nombre,Puesto,Contacto,Link,
-1,Fondo Mexicano para la Conservacion de la Naturaleza (FMCN),CDMX,Abierto,"Maria de Lourdes Hernandez Velasco,",Presidente de consejo directivo,info@fmcn.org,https://fmcn.org/es/convocatorias-financiamiento,
-2,Home Depot ,Mexico,Abierto,Edward Decker,Director Ejecutivo,Directo en pagina,https://compromisonaranja.bitam.com/Contacto.html,
-3,Rufford Foundation,International,Abierto,Lisa Rufford,Direccion General,lisa@rufford.org,https://apply.ruffordsmallgrants.org/,
-4,Pronatura A.C.,Veracruz,Abierto,Elisa Peresbarbosa,Directora,direccion@pronaturaveracruz.org,https://www.pronaturaveracruz.org/,
-5,Vitalis,Mexico,Abierto,-,-,Directo en pagina,https://vitalis.net/nosotros/vitalis-landing-page/,
-6,Fondo para el Medio Ambiente Mundial,Mexico,Abierto,CONABIO,Gobierno de Mexico,servext@conabio.gob.mx,https://www.biodiversidad.gob.mx/planeta/internacional/gef-1,
-7,Fundacion Avina,International,Abierto,Sean McKaughan,Presidente,info.web@avina.net,https://www.avina.net/,
-8,Fundacion Azteca,CDMX,Abierto,Antonio Dominguez Sagols,Direccion General,fundacionazteca.contigo@tvazteca.com.mx,https://www.fundacionazteca.org/contenido/seccion/programasambientales,
-9,"Fomento Moral y Educativo, A.C.",Nuevo Leon,Abierto,German Hernandez Jimenez,-,contacto@fomentome.org,https://www.fomentome.org/donativos,
-10,Fundacion Banorte,CDMX,Abierto,Sergio Zambrano,Responsabilidad Social y Sustentabilidad,responsabilidadsocial@banorte.com,https://www.fundacionbanorte.com/portal/publico/solicita-un-donativo/landing.web,
-11,"HEB en la Comunidad, A.C.",Nuevo Leon,Abierto,-,-,rpublicas@hebmex.com,https://heb.secure.force.com/MXDonativos/,
-12,Oak Foundation,International,Abierto,Anne S. Henshaw,Directora de Programas ambientales,Directo en pagina,https://oakfnd.org/submit-enquiry/,
-13,Banco Interamericano de Desarrollo,International,Abierto,Jessica L. Bedoya,Chief of Staff,Directo en pagina,https://www.iadb.org/es/acerca-del-bid/financiamiento-del-bid/financiamiento-del-bid%2C6028.html,
-14,WWF Mexico,Mexico,Abierto,-,-,Lista de convocatorias,https://www.wwf.org.mx/quienes_somos/convocatorias/,
-15,National Geographic,International,Abierto,Jill Tiefenthaler,Directora Ejecutiva,Directo en pagina,https://www.nationalgeographic.org/society/grants-and-investments/,
+Numero,Organizacion,Lugar,Estatus,Nombre,Puesto,Contacto,Link
+1,Fondo Mexicano para la Conservacion de la Naturaleza (FMCN),CDMX,Abierto,"Maria de Lourdes Hernandez Velasco,",Presidente de consejo directivo,info@fmcn.org,https://fmcn.org/es/convocatorias-financiamiento
+2,Home Depot ,Mexico,Abierto,Edward Decker,Director Ejecutivo,Directo en pagina,https://compromisonaranja.bitam.com/Contacto.html
+3,Rufford Foundation,International,Abierto,Lisa Rufford,Direccion General,lisa@rufford.org,https://apply.ruffordsmallgrants.org/
+4,Pronatura A.C.,Veracruz,Abierto,Elisa Peresbarbosa,Directora,direccion@pronaturaveracruz.org,https://www.pronaturaveracruz.org/
+5,Vitalis,Mexico,Abierto,-,-,Directo en pagina,https://vitalis.net/nosotros/vitalis-landing-page/
+6,Fondo para el Medio Ambiente Mundial,Mexico,Abierto,CONABIO,Gobierno de Mexico,servext@conabio.gob.mx,https://www.biodiversidad.gob.mx/planeta/internacional/gef-1
+7,Fundacion Avina,International,Abierto,Sean McKaughan,Presidente,info.web@avina.net,https://www.avina.net/
+8,Fundacion Azteca,CDMX,Abierto,Antonio Dominguez Sagols,Direccion General,fundacionazteca.contigo@tvazteca.com.mx,https://www.fundacionazteca.org/contenido/seccion/programasambientales
+9,"Fomento Moral y Educativo, A.C.",Nuevo Leon,Abierto,German Hernandez Jimenez,-,contacto@fomentome.org,https://www.fomentome.org/donativos
+10,Fundacion Banorte,CDMX,Abierto,Sergio Zambrano,Responsabilidad Social y Sustentabilidad,responsabilidadsocial@banorte.com,https://www.fundacionbanorte.com/portal/publico/solicita-un-donativo/landing.web
+11,"HEB en la Comunidad, A.C.",Nuevo Leon,Abierto,-,-,rpublicas@hebmex.com,https://heb.secure.force.com/MXDonativos/
+12,Oak Foundation,International,Abierto,Anne S. Henshaw,Directora de Programas ambientales,Directo en pagina,https://oakfnd.org/submit-enquiry/
+13,Banco Interamericano de Desarrollo,International,Abierto,Jessica L. Bedoya,Chief of Staff,Directo en pagina,https://www.iadb.org/es/acerca-del-bid/financiamiento-del-bid/financiamiento-del-bid%2C6028.html
+14,WWF Mexico,Mexico,Abierto,-,-,Lista de convocatorias,https://www.wwf.org.mx/quienes_somos/convocatorias/
+15,National Geographic,International,Abierto,Jill Tiefenthaler,Directora Ejecutiva,Directo en pagina,https://www.nationalgeographic.org/society/grants-and-investments/
