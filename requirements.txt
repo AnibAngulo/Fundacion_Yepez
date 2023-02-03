@@ -5,4 +5,4 @@ numpy==1.23.1
 plotly==5.11.0
 pydeck==0.8.0
 xgboost==1.7.1
-st_aggrid
+streamlit-aggrid
